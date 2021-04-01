@@ -33,3 +33,5 @@ File4 - http_method.py
 File5 - render_template.py
 1) Run the file using "python render_template.py"
 2) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/bhagwan" to see the output
+3) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/60" to see the output
+4) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/20" to see the output
