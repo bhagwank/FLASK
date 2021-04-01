@@ -6,7 +6,7 @@ Pre-requisites:
 
 -------------------------------------------------------------------------------------
 File1 - flask_test.py
-Run the file using "python flask_test.py"
-Open a browser and paste the URL- "http://127.0.0.1:5050/hello" to see the output
+1) Run the file using "python flask_test.py"
+2) Open a browser and paste the URL- "http://127.0.0.1:5050/hello" to see the output
 
 ---------------------------------------------------------------------------------------
