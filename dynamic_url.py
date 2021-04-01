@@ -12,6 +12,10 @@ def show_blog(ID):
 @app.route('/hello/<float:revNo>')
 def revison_number(revNo):
 	return ( "Revision Number is %f" % revNo)
+
+@app.route('/hello/')
+def variable_rule():
+    return ("variable rule both /hello and /hello/ both works")
 	
 if __name__ == '__main__':
    app.run(debug = True)
