@@ -35,3 +35,4 @@ File5 - render_template.py
 2) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/bhagwan" to see the output
 3) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/60" to see the output
 4) Open a browser and paste the URL- "http://127.0.0.1:5050/hello/20" to see the output
+5) Open a browser and paste the URL- "http://127.0.0.1:5050/result" to see the output
