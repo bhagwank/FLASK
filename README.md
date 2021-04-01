@@ -23,3 +23,10 @@ File3 - url_for.py
 1)  Run the file using "url-for.py"
 2)  Open a browser and paste the URL- "http://127.0.0.1:5050/user/admin" to see the output
 3)  Open a browser and paste the URL- "http://127.0.0.1:5050/user/bhagwan" to see the output
+
+----------------------------------------------------------------------------------------------
+File4 - http_method.py
+1) Run the file using "http_method.py"
+2) open login.html file and Enter Name in a box and click submit to see the output
+
+-----------------------------------------------------------------------------------------------
